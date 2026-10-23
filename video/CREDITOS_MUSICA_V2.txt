@@ -1,0 +1,3 @@
+Composição instrumental original criada para esta revisão, 140 BPM.
+Instrumentos sintetizados com FluidSynth e banco TimGM6mb (Tim Brechbill / David Bolton, GPL-2).
+Efeitos adicionais sintetizados para esta produção. Não usa a trilha anterior nem gravação de música comercial.

@@ -1,0 +1,45 @@
+{
+  "FullHD": {
+    "frames": 2250,
+    "seconds": 75.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "video": "h264",
+    "pixel_format": "yuv420p",
+    "audio": "aac",
+    "stereo": true,
+    "MB": 91.19,
+    "faststart": true,
+    "LUFS": -14.22,
+    "true_peak_dBTP": -1.47
+  },
+  "Leve": {
+    "frames": 2250,
+    "seconds": 75.0,
+    "resolution": [
+      720,
+      1280
+    ],
+    "video": "h264",
+    "pixel_format": "yuv420p",
+    "audio": "aac",
+    "stereo": true,
+    "MB": 20.06,
+    "faststart": true,
+    "LUFS": -14.22,
+    "true_peak_dBTP": -1.47
+  },
+  "data_hold_seconds": {
+    "weight_main": 6.45,
+    "training_all_three": 9.21,
+    "swim_distance_and_split": 7.31,
+    "bike_distance_and_split": 8.31,
+    "run_distance_and_split": 8.31,
+    "official_result": 10.45
+  },
+  "music": "Nova composição instrumental original, 140 BPM, bateria, baixo e guitarra/sintetizador.",
+  "visual_review": "33 quadros: entradas, meio e saída dos 11 blocos.",
+  "backend": "FFmpeg / Pillow / FluidSynth; Higgsfield não disponível nesta sessão."
+}
